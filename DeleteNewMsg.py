@@ -18,7 +18,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 bot = Client(
     "my_bot",
-    bot_token=Config.TELEGRAM_TOKEN
+    bot_token=BOT_TOKEN 
 )
 
 @bot.on_message(filters.group)
