@@ -8,7 +8,7 @@ import logging
 import asyncio  # Import asyncio for adding delay
 
 # Insert your bot token directly here
-BOT_TOKEN = "your_bot_token_here"
+BOT_TOKEN = "7366977759:AAFeyk2BEt4R08ZsFPjNAKyW-EjagewipTc"
 
 logging.basicConfig(
     level=logging.DEBUG,
