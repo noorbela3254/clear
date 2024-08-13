@@ -1,3 +1,7 @@
+
+# pip install pyrogram
+
+
 from pyrogram import Client, filters
 from config import Config
 import logging
